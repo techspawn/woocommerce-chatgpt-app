@@ -53,7 +53,7 @@ The **paid/pro version** includes everything from Lite plus:
 ### Step 1: Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/woocommerce-chatgpt-app.git
+git clone https://github.com/techspawn/woocommerce-chatgpt-app.git
 cd woocommerce-chatgpt-app
 ```
 
@@ -93,12 +93,6 @@ npm start
 ```
 
 Visit `http://localhost:3000/index.html` to test.
-
-**Deploy to Railway:**
-1. Go to [railway.app](https://railway.app) → Sign up with GitHub
-2. **New Project** → **Deploy from GitHub repo**
-3. Add environment variables (same as `.env` file)
-4. Copy your app URL (e.g., `https://yourapp.railway.app`)
 
 ---
 
@@ -210,3 +204,9 @@ Once tested and working, you can submit your app to the ChatGPT App Store for pu
 ---
 
 **Built with ❤️ for the WooCommerce community**
+
+---
+
+## 🚀 Deploy on Railway
+
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/woocommerce-chatgpt-app?referralCode=NFPJfk&utm_medium=integration&utm_source=template&utm_campaign=generic)
