@@ -4,6 +4,13 @@
 
 This app integrates your WooCommerce store with ChatGPT using Apps SDK, allowing users to browse and discover your products directly within ChatGPT conversations. Perfect for reaching a massive audience and driving traffic to your store.
 
+## 🎮 Demo
+
+- **ChatGPT SDK App / MCP Link**: [https://woo-chatgpt-app.up.railway.app/mcp](https://woo-chatgpt-app.up.railway.app/mcp)
+- **WooCommerce Site**: [https://woochatgptapp.techspawn.com](https://woochatgptapp.techspawn.com)
+
+> **Note**: Demo MCP server is connected to the WooCommerce site. Connect it to ChatGPT using the MCP link above to test.
+
 ## 🎯 What This App Does
 
 Transform ChatGPT into a powerful shopping assistant for your WooCommerce store. Users can:
@@ -186,6 +193,18 @@ This is a **ChatGPT App** using the [OpenAI Apps SDK](https://openai.com/index/i
 ### Step 5: Submit to ChatGPT App Store
 
 Once tested and working, you can submit your app to the ChatGPT App Store for public use.
+
+## 📸 Screenshot
+
+![WooCommerce ChatGPT App Screenshot 1](https://techspawn.com/wp-content/uploads/2025/11/Screenshot-2025-11-17-at-1.08.35-PM.png)
+
+![WooCommerce ChatGPT App Screenshot 2](https://techspawn.com/wp-content/uploads/2025/11/Screenshot-2025-11-17-at-1.08.56-PM.png)
+
+![WooCommerce ChatGPT App Screenshot 3](https://techspawn.com/wp-content/uploads/2025/11/Screenshot-2025-11-17-at-1.06.00-PM.png)
+
+![WooCommerce ChatGPT App Screenshot 4](https://techspawn.com/wp-content/uploads/2025/11/Screenshot-2025-11-17-at-1.06.37-PM.png)
+
+![WooCommerce ChatGPT App Screenshot 5](https://techspawn.com/wp-content/uploads/2025/11/Screenshot-2025-11-17-at-1.06.57-PM.png)
 
 **Learn more:** 
 - [Introducing Apps in ChatGPT](https://openai.com/index/introducing-apps-in-chatgpt/)
